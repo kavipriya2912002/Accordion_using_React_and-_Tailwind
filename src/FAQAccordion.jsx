@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { FaPlus, FaMinus } from 'react-icons/fa'; // Import icons from react-icons
 
 const FAQAccordion = () => {
